@@ -1,0 +1,5 @@
+day=('mon','tue','wed','thu','fri')
+print('no of days:',len(day))
+print('type:',type(day))
+print('name of days:',day)
+print('4th day:',day[3])
